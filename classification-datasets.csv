@@ -1,14 +1,14 @@
 height_cm,weight_kg,body_type
-170,72,Messi
-187,83,C. Ronaldo
-175,68,Neymar
+170,72,Normal
+187,83,Normal
+175,68,Lean
 188,87,Normal
 175,74,Normal
 181,70,Normal
 187,85,Normal
 193,92,Normal
 172,66,Lean
-175,71,PLAYER_BODY_TYPE_25
+175,71,Normal
 178,73,Normal
 187,89,Normal
 188,89,Normal
@@ -27,7 +27,7 @@ height_cm,weight_kg,body_type
 188,86,Normal
 170,69,Lean
 181,76,Lean
-199,96,Courtois
+199,96,Stocky
 194,85,Normal
 193,92,Normal
 193,92,Normal
@@ -312,7 +312,7 @@ height_cm,weight_kg,body_type
 188,86,Normal
 178,72,Lean
 182,73,Lean
-169,72,Shaqiri
+169,72,Stocky
 187,80,Lean
 196,92,Normal
 182,74,Normal
@@ -10692,7 +10692,7 @@ height_cm,weight_kg,body_type
 184,83,Stocky
 191,82,Normal
 180,88,Stocky
-178,110,Akinfenwa
+178,110,Stocky
 178,77,Normal
 182,80,Normal
 182,82,Stocky
