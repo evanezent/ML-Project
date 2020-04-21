@@ -6,4 +6,3 @@
 # Task 2
 ```Clusterring``` using :
   - K-Means
-  - ???
